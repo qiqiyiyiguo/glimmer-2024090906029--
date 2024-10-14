@@ -411,15 +411,25 @@ E:\GLIMMER\.GIT
 
 2. 仓库URL：[qiqiyiyiguo/gitflow (github.com)](https://github.com/qiqiyiyiguo/gitflow)
 
-3. ssh配置截图已上传；
+3. ![ssh](./ssh.png)
 
-   克隆操作已上传
+   ![克隆操作](./clone.png)
 
-4. 各步截图已上传
+4. ![01](./01.png)
+
+   ![02](./02.png)
+
+   ![03](./03.png)
+
+   
 
    为什么要把hotfix合并到develop：master是产品的稳定版本，仍要在develop分支上进行开发在合并至master，现在将develop上的bug一并修复有助于后续工作的进行
 
-5. 截图已上传，加分项已完成
+5. ![04](./04.png)
+
+   ![05](05.png)
+
+   ![06](./06.png)
 
 6. 如何使用git：master分支作为主分支与远程时刻同步，develop分支作为开发分支也与远程时刻同步，bug分支只用于在本地修复bug，不需要推送到远程；可能遇到的问题：冲突；解决：每个人尝试推送，并对冲突的推送进行自动合并或手动修改
 
